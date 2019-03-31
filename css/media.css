@@ -1,0 +1,531 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+.logo img {
+    width: 70%;
+}
+.menubar ul li a {
+    padding: 2px !important;
+    text-align: right;
+}
+.menubar button {
+    padding: 5px 7px;
+    margin-left: 61%;
+    margin-top: 5px;
+}
+.dot {
+    display: none;
+}
+/*banner*/
+.banner {
+    height: 202px;
+}
+.banner-content {
+    padding-top: 40px;
+}
+.banner-content h1 {
+    font-size: 25px;
+}
+.banner-content h5 {
+    font-size: 15px;
+}
+.banner-content button {
+    font-size: 11px;
+    padding: 7px 7px;
+}
+/*about us*/
+.about-us {
+    padding: 40px;
+}
+.common-titel h1 {
+    font-size: 25px;
+}
+.common-titel p {
+    font-size: 15px;
+}
+.single-content img {
+    width: 15%;
+}
+.single-content h1 {
+    font-size: 19px;
+}
+.single-content p {
+    font-size: 10px;
+}
+/*our approch*/
+.OurApproch {
+    padding: 40px;
+}
+.steps1-content {
+    padding: 0 12px 0px 19px;
+    margin-top: 20px;
+}
+.batch-1 {
+    display: none;
+}
+.steps2-content {
+    padding: 0 12px 0px 19px;
+    margin-top: 20px;
+}
+.batch-2 {
+    display: none;
+}
+.steps3-content {
+    padding: 0 12px 0px 19px;
+    margin-top: 20px;
+}
+.batch-3 {
+    display: none;
+}
+.steps4-content {
+    padding: 0 12px 0px 19px;
+    margin-top: 20px;
+}
+.batch-4 {
+    display: none;
+}
+/*our work*/
+.ourwork {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+/*gallery*/
+.container .box {
+    height: 208px;
+}
+.container .box .content h2 {
+    font-size: 25px;
+}
+/*facebook analysis*/
+.facebookAnalysis {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.droop-down-icon i {
+    padding: 10px !important;
+}
+.for-colse-button {
+    margin: 0 -100px;
+}
+.card-padding p {
+    font-size: 10px !important;
+}
+.form-padding {
+    padding: 0px 10px;
+}
+form .submit {
+    font-size: 10px;
+}
+/*get in touch*/
+.get-in-touch {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.heading-color .custom-color {
+    font-size: 11px;
+}
+.heading-color i {
+    font-size: 12px;
+}
+.heading-color i:nth-child(2) {
+    padding: 10px 13px;
+}
+.c-form {
+    margin: 0px 70px;
+}
+.c-form button {
+    font-size: 12px;
+    margin-left: 32%;
+}
+.footer p {
+    font-size: 12px;
+}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+.logo img {
+    width: 70%;
+}
+.menubar ul li a {
+    padding: 2px !important;
+    text-align: right;
+}
+.menubar button {
+    padding: 5px 7px;
+    margin-left: 71%;
+    margin-top: 5px;
+}
+.dot {
+    display: none;
+}
+/*banner*/
+.banner {
+    height: 320px;
+}
+.banner-content {
+    padding-top: 75px;
+}
+.banner-content h1 {
+    font-size: 40px;
+}
+.banner-content h5 {
+    font-size: 25px;
+}
+.banner-content button {
+    font-size: 14px;
+    padding: 8px 17px;
+}
+/*about us*/
+.about-us {
+    padding: 40px;
+}
+.common-titel h1 {
+    font-size: 30px;
+}
+.common-titel p {
+    font-size: 16px;
+}
+/*single title*/
+.single-content h1 {
+    font-size: 19px;
+}
+/*our approch*/
+.OurApproch {
+    padding: 40px;
+}
+.batch-1 {
+    display: none;
+}
+.steps1-content {
+    padding: 0 0 0 0;
+        margin-top: 35px;
+}
+.steps1-content p {
+    text-align: justify;
+}
+.batch-2 {
+     display: none;
+}
+.steps2-content {
+    padding: 0 0 0 0;
+        margin-top: 35px;
+}
+.steps2-content p {
+    text-align: justify;
+}
+.batch-3 {
+    display: none;
+}
+.steps3-content {
+    padding: 0 0 0 0;
+    margin-top: 35px;
+}
+.steps3-content p {
+    text-align: justify;
+}
+.batch-4 {
+    display: none;
+}
+.steps4-content {
+    padding: 0 0 0 0;
+    margin-top: 35px;
+}
+.steps4-content p {
+    text-align: justify;
+}
+/*our work*/
+.ourwork {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+/*image gallery*/
+.container .box {
+    height: 133px;
+}
+.container .box .content i {
+    font-size: 20px;
+}
+.container .box .content h2 {
+    font-size: 14px;
+}
+.container .box .content p {
+    font-size: 9px;
+}
+/*facebook analysis*/
+.facebookAnalysis {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.heading-color h1 {
+    font-size: 25px !important;
+}
+.droop-down-icon i {
+    padding: 15px !important;
+}
+.card-padding {
+    margin: 0 100px;
+}
+.card-padding p {
+    font-size: 11px !important;
+}
+.form-padding {
+    padding: 0px 5px;
+}
+form .submit {
+    font-size: 10px;
+}
+.heading-color i{
+    font-size: 10px; 
+}
+.heading-color i:nth-child(2){
+    padding: 10px 13px;
+}
+/*form */
+.for-colse-button {
+    margin: 0 -112px;
+}
+.for-colse-button .button-close {
+    top: -17px;
+    right: 88px;
+    width: 23px;
+    height: 27px;
+}
+/*get in touch*/
+.get-in-touch {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.heading-color .custom-color {
+    font-size: 11px;
+}
+.c-form {
+    margin: 0 100px;
+}
+.c-form button {
+     margin-left: 35%;
+    font-size: 15px;
+}
+.footer p {
+    font-size: 10px;
+}
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+.logo img {
+    width: 70%;
+}
+.menubar ul li a {
+    padding: 2px !important;
+    text-align: right;
+}
+.menubar button {
+    padding: 5px 7px;
+    margin-left: 79%;
+    margin-top: 5px;
+}
+.dot {
+    display: none;
+}
+/*banner*/
+.banner {
+    height: 323px;
+}
+.banner-content {
+    padding-top: 80px;
+}
+.banner-content h1 {
+    font-size: 35px;
+}
+.banner-content h5 {
+    font-size: 20px;
+}
+.banner-content button {
+    font-size: 13.43px;
+    padding: 10px 15px;
+}
+/*about us*/
+.about-us {
+    padding: 40px;
+}
+.common-titel h1 {
+    font-size: 35px;
+}
+.common-titel p {
+    font-size: 18px;
+}
+/*single content*/
+.single-content h1 {
+    font-size: 19px;
+}
+/*our apporch*/
+.OurApproch {
+    padding: 40px;
+}
+/*step 1 content*/
+.steps1-content {
+    padding: 0 20px 0px 45px;
+    margin-top: 22px;
+}
+.batch-1 {
+    left: -38px;
+    top: 21px;
+    width: 16%;
+    font-size: 18px;
+    padding: 10px;
+}
+.batch-1 span {
+    font-size: 40px;
+}
+.steps2-content {
+    padding: 0 45px 0px 15px;
+    margin-top: 24px;
+    text-align: right;
+    position: relative;
+}
+.batch-2 {
+    left: -38px;
+    top: 46px;
+    width: 34%;
+    font-size: 20px;
+    padding: 13px;
+}
+.batch-2 span {
+    font-size: 40px;
+}
+.batch-3 {
+    left: -38px;
+    top: 21px;
+    width: 16%;
+    font-size: 18px;
+    padding: 10px;
+}
+.batch-3 span {
+    font-size: 40px;
+}
+.batch-4 {
+    left: -38px;
+    top: 46px;
+    width: 34%;
+    font-size: 20px;
+    padding: 13px;
+}
+.batch-4 span {
+    font-size: 40px;
+}
+/*our work*/
+.ourwork {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.container .box .content i {
+    font-size: 20px;
+}
+.container .box .content h2 {
+    font-size: 20px;
+}
+.container .box .content p {
+    font-size: 10px;
+}
+.container .box {
+    height: 177px;
+}
+/*facebook analysis*/
+.facebookAnalysis {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.heading-color h1 {
+    font-size: 30px !important;
+}
+.for-colse-button .button-close {
+    top: -19px;
+    right: 28px;
+}
+/*card padding*/
+.card-padding {
+    padding: 33px 30px;
+    margin: 0 40px;
+}
+.card-padding p {
+    font-size: 15px !important;
+}
+.droop-down-icon i {
+    padding: 15px !important;
+}
+/*get in touch*/
+.get-in-touch {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.heading-color .custom-color {
+    font-size: 15px;
+}
+.c-form button {
+    margin-left: 35%;
+}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.about-us {
+    padding: 40px;
+}
+.OurApproch {
+    padding: 40px;
+}
+.steps1-content {
+    margin-top: 45px;
+}
+.batch-1 {
+    left: -45px;
+    top: 1px;
+    width: 17%;
+}
+.steps2-content {
+    margin-top: 46px;
+}
+.batch-2 {
+    left: -43px;
+    top: 54px;
+    width: 30%;
+}
+.batch-3 {
+    left: -42px;
+    top: 1px;
+    width: 16%;
+}
+.batch-4 {
+    left: -44px;
+    top: 48px;
+    width: 30%;
+}
+.ourwork {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.container .box {
+    height: 236px;
+}
+.container .box .content h2 {
+    font-size: 30px;
+}
+.facebookAnalysis {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.droop-down-icon i {
+    padding: 15px !important;
+}
+.get-in-touch {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}
